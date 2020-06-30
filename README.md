@@ -5,7 +5,7 @@ and OS command injection. Also it can check if target paths exist.
 
 ### Warning
 
-<span style="color: red; ">Do not abuse it!</span>
+Do not abuse it!
 This tool is not intended to encourage malicious behavior.
 It should be used for learning purposes only.
 Any development, production or operation of it must be done at your own risk and discretion.
