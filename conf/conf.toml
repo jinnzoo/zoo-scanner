@@ -1,0 +1,2 @@
+[pathcheck]
+targets = ["to/wordpress/login.php", "fuga.php"]
