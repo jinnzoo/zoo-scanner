@@ -3,14 +3,14 @@ zoo-scanner
 A simple scanner by Rust. It can scan only simple XSS, directory traversal, 
 and OS command injection. Also it can check if target paths exist.
 
-### Warning
+## Warning
 
-Do not abuse it!
-This tool is not intended to encourage malicious behavior.
-It should be used for learning purposes only.
-Any development, production or operation of it must be done at your own risk and discretion.
+Do not abuse this tool. 
+This tool is not intended to encourage malicious behavior. 
+It should be used for learning purposes only. 
+Any development, production or operation of it must be done at your own risk and discretion. 
 
-### Usage
+## Usage
 
 Clone this repository:
 
